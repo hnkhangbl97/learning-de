@@ -1,6 +1,6 @@
 #### Project overview
-- Ingest Tokyo Olympic dataset from csv source file to DBFS in Databricks Lakehouse Platform
-- Perform data transformation and store processed to Databricks Delta lake
+- Ingest Tokyo Olympic dataset from .csv source file to DBFS in Databricks Lakehouse Platform
+- Perform data transformation and store processed data to Databricks Deltalake
 - Ingest and transform processed data, create presentation database for EDA *(Exploratory Data Analysis)*  purposes
 - Visualize presentation data
 
@@ -17,6 +17,6 @@
 ![](https://raw.githubusercontent.com/hnkhangbl97/olympic-tokyo-databrick-demo/main/img/Silver%20medal%20standing.png)
 ##### ***Bronze medal standing***
 ![](https://raw.githubusercontent.com/hnkhangbl97/olympic-tokyo-databrick-demo/main/img/Bronze%20medal%20standing.png)
-[========]
+
 ######  Raw data reference
 [https://www.kaggle.com/datasets/arjunprasadsarkhel/2021-olympics-in-tokyo](https://www.kaggle.com/datasets/arjunprasadsarkhel/2021-olympics-in-tokyo)
